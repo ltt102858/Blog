@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e623bd2f3f9be8fec9e388dc0b2f823be5ac2b9dec944434984582a733db908c"
+            "sha256": "a63379a432163bc4f2614f99a50bf4824327c2ecc60721ff51f6ed6f4cbc3e75"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -24,13 +24,21 @@
             "index": "https://pypi.tuna.tsinghua.edu.cn/simple",
             "version": "==2.2.3"
         },
-        "markdown": {
+        "gunicorn": {
             "hashes": [
-                "sha256:1fafe3f1ecabfb514a5285fca634a53c1b32a81cb0feb154264d55bf2ff22c17",
-                "sha256:c467cd6233885534bf0fe96e62e3cf46cfc1605112356c4f9981512b8174de59"
+                "sha256:1904bb2b8a43658807108d59c3f3d56c2b6121a701161de0ddf9ad140073c626",
+                "sha256:cd4a810dd51bf497552cf3f863b575dabd73d6ad6a91075b65936b151cbf4f9c"
             ],
             "index": "pypi",
-            "version": "==3.2.2"
+            "version": "==20.0.4"
+        },
+        "markdown": {
+            "hashes": [
+                "sha256:4f4172a4e989b97f96860fa434b89895069c576e2b537c4b4eed265266a7affc",
+                "sha256:fbb1ba54ca41e8991dc5a561d9c6f752f5e4546f8750e56413ea50f2385761d3"
+            ],
+            "index": "pypi",
+            "version": "==3.3"
         },
         "pytz": {
             "hashes": [
